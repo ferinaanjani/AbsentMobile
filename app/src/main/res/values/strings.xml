@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AbsentMobile</string>
+    <string name="nik">Nik</string>
+    <string name="email">Email</string>
+    <string name="register">REGISTER</string>
+    <string name="login">LOGIN</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="password">Password</string>
+    <string name="Login">login</string>
+    <string name="NIK">NIK</string>
+    <string name="nama">Nama</string>
+    <string name="Password">Password</string>
+</resources>
